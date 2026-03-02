@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#ffffff"/>
+
+  <!-- Shopping Cart -->
+  <path 
+    d="M16 20h6l4 20h20l4-12H24" 
+    stroke="#FF6F00" 
+    stroke-width="3" 
+    fill="none"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Wheels -->
+  <circle cx="28" cy="48" r="3" fill="#2E7D32"/>
+  <circle cx="46" cy="48" r="3" fill="#2E7D32"/>
+
+  <!-- IndiaCart text -->
+  <text 
+    x="12" 
+    y="18" 
+    font-size="9" 
+    fill="#FF6F00" 
+    font-weight="bold"
+    font-family="Arial, sans-serif"
+  >
+    IndiaCart
+  </text>
+</svg>
