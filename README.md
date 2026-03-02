@@ -40,4 +40,4 @@ It allows users to browse products, manage cart items, and place orders using a 
 
 ---
 
-## 📂 Project Structure
+
